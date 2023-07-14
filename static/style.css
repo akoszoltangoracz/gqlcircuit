@@ -1,0 +1,26 @@
+.circurit-card {
+  width: 100%;
+  border: black 1px solid !important;
+  border-radius: 5px;
+  margin: 4px;
+}
+
+.component-card {
+  width: 100%;
+  border: black 1px solid !important;
+  border-radius: 5px;
+  margin: 4px;
+}
+
+.component-select-box {
+  height: 300px;
+}
+
+fieldset {
+  border: 1px black solid !important;
+  border-radius: 5px;
+}
+
+.component-image {
+  max-width: 25px;
+}
